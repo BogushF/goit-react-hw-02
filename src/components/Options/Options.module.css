@@ -1,0 +1,14 @@
+.btnBox {
+  margin: 10px;
+  gap: 20px;
+}
+
+.btn {
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid rgb(63, 63, 63);
+  border-radius: 16px;
+  background-color: rgb(87, 151, 202);
+  font-size: larger;
+  font-weight: 600;
+}
