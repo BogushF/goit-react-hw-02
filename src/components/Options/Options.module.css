@@ -12,3 +12,9 @@
   font-size: larger;
   font-weight: 600;
 }
+
+.btn:hover {
+  border: 2px solid rgb(63, 63, 63);
+  background-color: rgb(47, 124, 187);
+  transition: background-color 0.3s;
+}
